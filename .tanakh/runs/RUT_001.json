@@ -36,9 +36,9 @@
    "run": "rules@2026-11-10",
    "label": "rules",
    "model": "rules learned from the team's New Testament",
-   "code": "beeb96b",
+   "code": "e6fd3a2+changes",
    "register": "0.0-seed",
-   "built": "2026-11-10 02:16",
+   "built": "2026-11-10 15:51",
    "kind of draft": "rules"
   }
  }

@@ -1,0 +1,24 @@
+{
+ "format": "make-tanakh-clause-features/1",
+ "repo": "bcv-commons/clause-columns",
+ "type": "dataset",
+ "revision": "8a132e44224c83cdaa92fadd93cf440c58552354",
+ "file": "data/hebrew.parquet",
+ "sha256": "9dcee6765f5ea947fe8d1e0e5be2a9a75b00cf4e82e537d672e06c845826c7bc",
+ "layout": "bcv-commons/hebrew-clause-layout@514a88320ab6556e0f7fd2e686c9637fcf39bd62",
+ "licence": "CC BY-SA 4.0",
+ "key": "clause_key",
+ "join": "a .units key is <clause_key>-<the clause's last word>[/n]: the part before '-' is the clause_key of the row; /n marks the clause's n-th piece in the verse (a clause interrupted by another clause has two pieces, one key)",
+ "similar": [
+  "force",
+  "neg",
+  "voice",
+  "person",
+  "number",
+  "line",
+  "speech",
+  "conj",
+  "kind"
+ ],
+ "note": "values are not copied into this CC0 repository; read them from the dataset"
+}

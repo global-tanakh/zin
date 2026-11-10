@@ -1,0 +1,1385 @@
+{
+"format": "make-tanakh-glosses/1",
+"language": "zin",
+"source": {
+"repo": "bcv-commons/make-tanakh-grammar",
+"commit": "734fca9",
+"editions": [
+"drafts"
+],
+"chapters": 1
+},
+"licence": "CC0-1.0 (counts from our drafts); lexemes: MACULA Hebrew (WLC) via lexeme-spine-macula, CC BY 4.0",
+"lexemes": {
+"hbo:0310": [
+[
+"omukulaatile",
+1
+],
+[
+"enyuma",
+1
+]
+],
+"hbo:0376": [
+[
+"iíba",
+3
+],
+[
+"omuuntu",
+2
+],
+[
+"kuswéelwa",
+1
+],
+[
+"naáswéelwa",
+1
+],
+[
+"abaséeza",
+1
+]
+],
+"hbo:0408": [
+[
+"bityo",
+1
+],
+[
+"aáti",
+1
+],
+[
+"aáti mutaákuba",
+1
+]
+],
+"hbo:0413": [
+[
+"omu",
+2
+],
+[
+"hali",
+1
+],
+[
+"ndaazeénda hóona",
+1
+],
+[
+"kumugaambila",
+1
+],
+[
+"yaábagaambila",
+1
+]
+],
+"hbo:0430": [
+[
+"múungu",
+2
+],
+[
+"bamúungu",
+1
+]
+],
+"hbo:0458": [
+[
+"elimeleki",
+2
+]
+],
+"hbo:0517": [
+[
+"nyina",
+1
+]
+],
+"hbo:0553": [
+[
+"nikwo",
+1
+]
+],
+"hbo:0559": [
+[
+"yaábagaambila",
+3
+],
+[
+"yaámugaambila",
+2
+],
+[
+"baámugaambila",
+1
+],
+[
+"naágaamba",
+1
+],
+[
+"báti",
+1
+]
+],
+"hbo:0589": [
+[
+"íinye",
+1
+]
+],
+"hbo:0673": [
+[
+"abaefurati",
+1
+]
+],
+"hbo:0776": [
+[
+"nsi",
+2
+]
+],
+"hbo:0802": [
+[
+"mukázi",
+2
+],
+[
+"buli oómo",
+2
+],
+[
+"mukazíwe",
+1
+],
+[
+"abakázi",
+1
+]
+],
+"hbo:0834": [
+[
+"áaho",
+4
+],
+[
+"óobwo",
+1
+]
+],
+"hbo:0854": [
+[
+"tulaasuba hamo",
+1
+],
+[
+"hamo",
+1
+]
+],
+"hbo:0871a": [
+[
+"omu",
+5
+],
+[
+"omu omu",
+1
+],
+[
+"yaákwaátaangana",
+1
+],
+[
+"áaho",
+1
+],
+[
+"ahaantu",
+1
+],
+[
+"aha",
+1
+]
+],
+"hbo:0935": [
+[
+"baáhika",
+3
+],
+[
+"kábaahikile",
+1
+]
+],
+"hbo:0996": [
+[
+"íinye",
+1
+],
+[
+"íiwe",
+1
+]
+],
+"hbo:1004": [
+[
+"nzu",
+1
+],
+[
+"nzu ya",
+1
+]
+],
+"hbo:1035": [
+[
+"betelehemu",
+4
+],
+[
+"betlehemu",
+1
+]
+],
+"hbo:1058": [
+[
+"baáchula",
+2
+]
+],
+"hbo:1115": [
+[
+"nimwaakuhicha",
+1
+]
+],
+"hbo:1121": [
+[
+"abatábani",
+4
+],
+[
+"abatábani boómwe",
+1
+]
+],
+"hbo:1323": [
+[
+"bahala",
+2
+],
+[
+"abahala",
+1
+]
+],
+"hbo:1431": [
+[
+"balaakula",
+1
+]
+],
+"hbo:1481": [
+[
+"kutúula",
+1
+]
+],
+"hbo:1571": [
+[
+"káandi",
+1
+],
+[
+"nóobu",
+1
+],
+[
+"omuséeza káandi",
+1
+]
+],
+"hbo:1692": [
+[
+"yaákwaátaangana",
+1
+]
+],
+"hbo:1696": [
+[
+"kumugaambila",
+1
+]
+],
+"hbo:1870": [
+[
+"muháanda babone",
+1
+]
+],
+"hbo:1886a": [
+[
+"lyoómwe",
+2
+],
+[
+"akaba akaba",
+1
+],
+[
+"ogwo",
+1
+],
+[
+"yaáluga",
+1
+],
+[
+"hali",
+1
+],
+[
+"bo",
+1
+],
+[
+"náwe",
+1
+]
+],
+"hbo:1886b": [
+[
+"ngási",
+4
+]
+],
+"hbo:1886d": [
+[
+"boómwe",
+5
+],
+[
+"woómwe",
+3
+],
+[
+"akaba",
+1
+],
+[
+"íichwe",
+1
+],
+[
+"náze",
+1
+],
+[
+"náwe",
+1
+],
+[
+"kumugaambila",
+1
+],
+[
+"yaásuba",
+1
+]
+],
+"hbo:1931": [
+[
+"hamo",
+1
+]
+],
+"hbo:1931a": [
+[
+"hamo",
+2
+],
+[
+"rusi",
+1
+]
+],
+"hbo:1949": [
+[
+"éelyo beezula",
+1
+]
+],
+"hbo:1961": [
+[
+"haabáho",
+1
+],
+[
+"beékala",
+1
+],
+[
+"naomi ali",
+1
+],
+[
+"abaséeza",
+1
+],
+[
+"titíkikwiingana",
+1
+],
+[
+"owaabo",
+1
+],
+[
+"mutéena",
+1
+],
+[
+"obuchilo",
+1
+]
+],
+"hbo:1980": [
+[
+"baázeenda",
+2
+],
+[
+"muzeénde",
+2
+],
+[
+"kuzeenda",
+2
+],
+[
+"yaázeenda",
+1
+],
+[
+"olaazeénda",
+1
+],
+[
+"nkazeenda",
+1
+]
+],
+"hbo:2004": [
+[
+"omuli",
+2
+],
+[
+"bwáabo",
+1
+]
+],
+"hbo:2009": [
+[
+"lola",
+1
+]
+],
+"hbo:2050b": [
+[
+"na",
+14
+],
+[
+"baáhika",
+3
+],
+[
+"no",
+3
+],
+[
+"mbwéenu",
+2
+],
+[
+"beékala",
+2
+],
+[
+"yaáfwa",
+2
+],
+[
+"baáhámuka",
+2
+],
+[
+"baáchula",
+2
+]
+],
+"hbo:2050c": [
+[
+"woómwe",
+1
+],
+[
+"naayétwa",
+1
+],
+[
+"boómwe nibeétwa",
+1
+],
+[
+"boómwe",
+1
+]
+],
+"hbo:2063": [
+[
+"ogu niwe",
+1
+]
+],
+"hbo:2204": [
+[
+"íinye naákokola",
+1
+]
+],
+"hbo:2308": [
+[
+"yaáleka",
+1
+]
+],
+"hbo:2545": [
+[
+"nyinazaala",
+1
+]
+],
+"hbo:2617": [
+[
+"echiganyizi",
+1
+]
+],
+"hbo:2967a": [
+[
+"baanze",
+4
+],
+[
+"nnyina",
+2
+],
+[
+"neenye",
+1
+],
+[
+"kuba",
+1
+],
+[
+"mpaango",
+1
+],
+[
+"waanze",
+1
+],
+[
+"ankolele",
+1
+],
+[
+"yaánkolela",
+1
+]
+],
+"hbo:2994": [
+[
+"mulamu",
+2
+]
+],
+"hbo:3027": [
+[
+"omukóno gwo",
+1
+]
+],
+"hbo:3063": [
+[
+"yuda",
+2
+],
+[
+"ya yuda",
+1
+]
+],
+"hbo:3068": [
+[
+"omukáma múungu",
+3
+],
+[
+"omukáma",
+3
+],
+[
+"omukáma gwaánteeleho",
+1
+]
+],
+"hbo:3117": [
+[
+"bilo éebyo",
+1
+]
+],
+"hbo:3205": [
+[
+"naázáala",
+1
+]
+],
+"hbo:3206": [
+[
+"abáana",
+1
+]
+],
+"hbo:3254": [
+[
+"ayoongeleho",
+1
+]
+],
+"hbo:3318": [
+[
+"yaáluga",
+1
+],
+[
+"kuba",
+1
+]
+],
+"hbo:3426": [
+[
+"aáti",
+1
+]
+],
+"hbo:3427": [
+[
+"beékala",
+1
+]
+],
+"hbo:3509a": [
+[
+"nko",
+1
+],
+[
+"kábaahikile",
+1
+]
+],
+"hbo:3509c": [
+[
+"waawe",
+3
+],
+[
+"baawe",
+1
+],
+[
+"nkuleke",
+1
+],
+[
+"baawe nibo",
+1
+],
+[
+"íiwe",
+1
+]
+],
+"hbo:3541": [
+[
+"niho káandi",
+1
+]
+],
+"hbo:3588": [
+[
+"habwo kuba",
+3
+],
+[
+"habwo",
+3
+],
+[
+"nka nikwo",
+1
+],
+[
+"káandi",
+1
+],
+[
+"kábilaaba",
+1
+],
+[
+"nka",
+1
+]
+],
+"hbo:3605": [
+[
+"bóona",
+1
+]
+],
+"hbo:3618": [
+[
+"abakázi boómwe",
+1
+],
+[
+"abeenga",
+1
+],
+[
+"abatábani",
+1
+],
+[
+"óogwo",
+1
+]
+],
+"hbo:3630": [
+[
+"kilioni",
+2
+]
+],
+"hbo:3641b": [
+[
+"íimwe íimwe",
+1
+],
+[
+"íimwe wáanyu",
+1
+],
+[
+"báanyu",
+1
+],
+[
+"íimwe",
+1
+]
+],
+"hbo:3807a": [
+[
+"omu",
+2
+],
+[
+"ha",
+2
+],
+[
+"nnyina",
+2
+],
+[
+"wa",
+1
+],
+[
+"baáswéela",
+1
+],
+[
+"no",
+1
+],
+[
+"kusuba",
+1
+],
+[
+"abakázi",
+1
+]
+],
+"hbo:3860": [
+[
+"nimwaakuhicha",
+2
+]
+],
+"hbo:3885a": [
+[
+"olaáyikala",
+1
+]
+],
+"hbo:3899": [
+[
+"ebyookulya",
+1
+]
+],
+"hbo:3915": [
+[
+"chilo",
+1
+]
+],
+"hbo:3963a": [
+[
+"abo",
+1
+],
+[
+"baáfwa",
+1
+],
+[
+"baázeenda",
+1
+]
+],
+"hbo:3966": [
+[
+"bwooli",
+1
+],
+[
+"ebilikusaalila bwooli",
+1
+]
+],
+"hbo:4100": [
+[
+"bwaáchi",
+2
+]
+],
+"hbo:4124": [
+[
+"moabu",
+5
+]
+],
+"hbo:4125": [
+[
+"abamoabu",
+1
+],
+[
+"mweengáwe",
+1
+]
+],
+"hbo:4191": [
+[
+"yaáfwa",
+1
+],
+[
+"baáfwa",
+1
+],
+[
+"echiganyizi abáfwiile",
+1
+],
+[
+"niho ndaáfwéela",
+1
+]
+],
+"hbo:4194": [
+[
+"olufu",
+1
+]
+],
+"hbo:4248": [
+[
+"maloni",
+1
+],
+[
+"mahaloni",
+1
+]
+],
+"hbo:4392": [
+[
+"nkazeenda",
+1
+]
+],
+"hbo:4480": [
+[
+"kuluga",
+3
+],
+[
+"oómo",
+1
+],
+[
+"atéena",
+1
+],
+[
+"bwooli",
+1
+],
+[
+"kuchila",
+1
+]
+],
+"hbo:4496": [
+[
+"obuhóolo",
+1
+]
+],
+"hbo:4578": [
+[
+"nda yaanze",
+1
+]
+],
+"hbo:4672": [
+[
+"kubona",
+1
+]
+],
+"hbo:4725": [
+[
+"ahaantu",
+1
+]
+],
+"hbo:4755": [
+[
+"mara",
+1
+]
+],
+"hbo:4843": [
+[
+"kuba nyina",
+1
+],
+[
+"kuba",
+1
+]
+],
+"hbo:5204a": [
+[
+"náho",
+1
+]
+],
+"hbo:5281": [
+[
+"naomi",
+7
+],
+[
+"lya naomi",
+1
+]
+],
+"hbo:5375": [
+[
+"baáhámuka",
+2
+],
+[
+"baáswéela",
+1
+]
+],
+"hbo:5401": [
+[
+"yaábanyweégela",
+1
+],
+[
+"yaámunyweégela",
+1
+]
+],
+"hbo:5414": [
+[
+"kubaha",
+1
+],
+[
+"abahe",
+1
+]
+],
+"hbo:5702": [
+[
+"kwiikala",
+1
+]
+],
+"hbo:5704": [
+[
+"kuhicha",
+2
+]
+],
+"hbo:5750": [
+[
+"ncháali",
+1
+],
+[
+"baáchula káandi",
+1
+]
+],
+"hbo:5800": [
+[
+"nkuleke",
+1
+]
+],
+"hbo:5892": [
+[
+"iboma",
+1
+]
+],
+"hbo:5921": [
+[
+"omusaambo",
+1
+]
+],
+"hbo:5971": [
+[
+"abaantu",
+3
+],
+[
+"baantu",
+2
+]
+],
+"hbo:5973": [
+[
+"hamo",
+3
+],
+[
+"abazilile",
+1
+],
+[
+"mwaábazilila",
+1
+]
+],
+"hbo:5978": [
+[
+"neenye",
+1
+]
+],
+"hbo:6030": [
+[
+"yaándegelela",
+1
+]
+],
+"hbo:6204": [
+[
+"oripa no",
+1
+],
+[
+"orupa",
+1
+]
+],
+"hbo:6213": [
+[
+"asube",
+1
+],
+[
+"óokwo",
+1
+]
+],
+"hbo:6235": [
+[
+"nke",
+1
+]
+],
+"hbo:6293": [
+[
+"otaákunsaba",
+1
+]
+],
+"hbo:6485": [
+[
+"yéeza",
+1
+]
+],
+"hbo:6504": [
+[
+"echilaatutaáganisa",
+1
+]
+],
+"hbo:6912": [
+[
+"olaáfwéela neenye",
+1
+]
+],
+"hbo:6963": [
+[
+"baáhámuka",
+1
+],
+[
+"baáhámuka ahi",
+1
+]
+],
+"hbo:6965": [
+[
+"yaáyemeelela",
+1
+]
+],
+"hbo:7105": [
+[
+"bwi igesa lye",
+1
+]
+],
+"hbo:7121": [
+[
+"nimuunyéta",
+2
+],
+[
+"muunyéte",
+1
+]
+],
+"hbo:7200": [
+[
+"yaábona",
+1
+]
+],
+"hbo:7327": [
+[
+"ruthu",
+4
+]
+],
+"hbo:7387": [
+[
+"byóona chóona",
+1
+]
+],
+"hbo:7458": [
+[
+"enzala mpaango",
+1
+]
+],
+"hbo:7489": [
+[
+"yaándeetela obuzilwa",
+1
+]
+],
+"hbo:7604": [
+[
+"yaásigala",
+1
+],
+[
+"baáfwa yaásigala",
+1
+]
+],
+"hbo:7663": [
+[
+"kubalinda",
+1
+]
+],
+"hbo:7704": [
+[
+"nsi ya",
+5
+]
+],
+"hbo:7706": [
+[
+"omuzizi byóona",
+2
+]
+],
+"hbo:7725": [
+[
+"kusuba",
+2
+],
+[
+"musube",
+2
+],
+[
+"yaásuba",
+2
+],
+[
+"muzeénde",
+1
+],
+[
+"neewe",
+1
+],
+[
+"neewe suba",
+1
+],
+[
+"nsube",
+1
+],
+[
+"ebiintu",
+1
+]
+],
+"hbo:8033": [
+[
+"okwo",
+2
+],
+[
+"áaho",
+1
+],
+[
+"áaho olaáfwéela",
+1
+]
+],
+"hbo:8034": [
+[
+"izíina",
+2
+],
+[
+"naayétwa",
+1
+],
+[
+"nibeétwa",
+1
+]
+],
+"hbo:8085": [
+[
+"ahuliile",
+1
+]
+],
+"hbo:8141": [
+[
+"emyáaka ikúmi",
+1
+]
+],
+"hbo:8147": [
+[
+"bábili",
+8
+]
+],
+"hbo:8184": [
+[
+"eshayiri",
+1
+]
+],
+"hbo:8199": [
+[
+"nibalamula",
+1
+],
+[
+"abaiziraeli",
+1
+]
+],
+"hbo:8462": [
+[
+"bubaandizo",
+1
+]
+],
+"hbo:8615": [
+[
+"itegezo",
+1
+]
+]
+}
+}
